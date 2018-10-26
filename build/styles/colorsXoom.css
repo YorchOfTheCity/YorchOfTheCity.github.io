@@ -1,0 +1,20 @@
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: antialiased;
+    background: linear-gradient(to right, #177c09 0%,#21b20e 100%);
+    
+}
+
+/* form {
+    border-color: dodgerblue;
+    border-style: solid;
+    border-width: 1px;
+    border-bottom: 0px;
+} */
+
+.pure-form fieldset legend{
+    /* background: linear-gradient(to right, #0070ba 0%,#793bdd 100%); */
+    color: #333;
+    padding-left: .5em;
+}
